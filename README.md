@@ -16,6 +16,7 @@ This is a progress tracking web application designed to help users manage tasks 
 [View Live Site](https://naomi12-chi.github.io/discipline-trackers/)
 **How It Works:**
 Users can create tasks and mark them as completed. The app automatically updates progress metrics, including total tasks created, completed tasks, and streak count, providing a visual representation of productivity.
+
 ** What I Learned:**
 This project helped me improve my understanding of:
 - DOM manipulation
@@ -23,6 +24,7 @@ This project helped me improve my understanding of:
 - Building interactive UI features
 - Handling user-driven updates dynamically
 - Working with local storage
+  
 ** Future Improvements:**
 - User authentication
 - Drag-and-drop task organization
