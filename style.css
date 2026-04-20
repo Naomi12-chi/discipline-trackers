@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #fdf6f9;
+  background: #2d0f1f;
   font-family: Arial, sans-serif;
   display: flex;
   justify-content: center;
@@ -19,7 +19,8 @@ body {
   border-radius: 15px;
   width: 100%;
   max-width: 400px;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 5px rgba(0, 0, 0, 0.05);
+  margin: 15px;
 }
 
 h1 {
@@ -130,6 +131,15 @@ h1 {
 
   h1 {
     font-size: 22px;
+  }
+  .taskkk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #add-task {
+    margin-bottom: 10px;
   }
 
 }
