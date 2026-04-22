@@ -13,7 +13,7 @@ This is a progress tracking web application designed to help users manage tasks 
 - CSS
 - JavaScript.
 **Live Demo:**
-[View Live Site](https://naomi12-chi.github.io/discipline-trackers/)
+[View Live Site]( https://naomi12-chi.github.io/progress-tracker-app/)
 **How It Works:**
 Users can create tasks and mark them as completed. The app automatically updates progress metrics, including total tasks created, completed tasks, and streak count, providing a visual representation of productivity.
 
